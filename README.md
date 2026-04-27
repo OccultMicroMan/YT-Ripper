@@ -27,7 +27,7 @@ A free and open source YouTube audio ripper, playlist builder, and audio editor 
 
 ## Screenshots
 
-> *(Add screenshots here)*
+<img width="1923" height="1001" alt="image" src="https://github.com/user-attachments/assets/7f80f1b2-86d1-484e-be1d-37a055df7e60" />
 
 ---
 
